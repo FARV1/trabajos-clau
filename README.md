@@ -2,15 +2,15 @@
 
 Este repositorio contiene proyectos y trabajos de práctica.
 
-## Descripcion
+## Descripción
 
-Aqui encontraras ejercicios, scripts y experimentos de programacion.
+Aquí encontrarás ejercicios, scripts y experimentos de programación.
 
-## Como usar
+## Cómo usar
 
 1. Clona el repositorio
 2. Explora las carpetas
-3. Lee el codigo y experimenta
+3. Lee el código y experimenta
 
 ## Contribuciones
 
