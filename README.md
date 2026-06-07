@@ -10,7 +10,7 @@ Aquí encontrarás ejercicios, scripts y experimentos de programación.
 
 1. Clona el repositorio
 2. Explora las carpetas
-3. Lee el codigo y experimenta
+3. Lee el código y experimenta
 
 ## Contribuciones
 
